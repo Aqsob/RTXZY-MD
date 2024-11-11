@@ -1,12 +1,12 @@
-global.owner = ['62895331520602']  
-global.mods = ['62895331520602'] 
-global.prems = ['62895331520602']
-global.nameowner = 'Tio'
-global.numberowner = '62895331520602' 
+global.owner = ['6285656715298']  
+global.mods = ['6285656715298'] 
+global.prems = ['6285656715298']
+global.nameowner = '33333'
+global.numberowner = '6285656715298' 
 global.mail = 'support@tioprm.eu.org' 
 global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.instagram = 'xnxx.com'
+global.wm = '© AQS'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
@@ -17,11 +17,11 @@ global.maxwarn = '5' // Peringatan maksimum
 global.antiporn = true // Auto delete pesan porno (bot harus admin)
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'h6maOcmi' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'h6maOcmi'
 //Daftar https://api.betabotz.eu.org 
 
 //jangan diganti!
@@ -31,7 +31,7 @@ global.APIs = {
 
 //ini tidak di isi juga tidak apa-apa
 global.APIKeys = { 
-  'https://api.botcahx.eu.org': 'APIKEY' 
+  'https://api.botcahx.eu.org': 'h6maOcmi' 
 }
 
 let fs = require('fs')
